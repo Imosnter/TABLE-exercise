@@ -1,0 +1,15 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+table{
+	border-collapse: collapse;
+    width: 100%;
+	background-color: darkgray;
+}
+.header{
+		background-color: #efd723;
+}
+
+.table1:hover{
+	background-color: #bba2e8;
+}
